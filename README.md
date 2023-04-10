@@ -1,7 +1,7 @@
 ### Hello! I am Rafael Messias Pinheiro, known as Rafa!
 
 
-- 🌱 Studying React.js, Node.js, MySQL
+- 🌱 Studying React Native, Node.js, MySQL
 - 📫 my e-mail for contact: Raff1zpinheiro@gmail.com
 
 <div align="center">
