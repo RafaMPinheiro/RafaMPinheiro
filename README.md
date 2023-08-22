@@ -3,12 +3,6 @@
 
 - 🌱 Studying React Native, React.js, Node.js.
 - 📫 my e-mail for contact: Raff1zpinheiro@gmail.com
-
-<div align="center">
-  <a href="https://github.com/RafaMPinheiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaMPinheiro&show_icons=true&theme=apprentice&include_all_commits=true&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMPinheiro&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
