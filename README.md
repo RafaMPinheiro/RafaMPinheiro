@@ -1,4 +1,4 @@
-### Hello! I am Rafael Messias Pinheiro, known as Rafa!
+Hello! I am Rafael Messias Pinheiro, known as Rafa!
 
 <img align="right" height="600em" src=".github\assets\Mobile.svg"/>
 
