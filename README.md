@@ -1,6 +1,6 @@
 Hello! I am Rafael Messias Pinheiro, known as Rafa!
 
-<img align="right" height="600em" src=".github\assets\Mobile.svg"/>
+<img align="right" height="550em" src=".github\assets\Mobile.png"/>
 
 - 📫 my e-mail for contact: Raff1zpinheiro@gmail.com
 
